@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer orbital ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,24A30,30 0,1 1,24 54A30,30 0,0 1,54 24z"
+        android:strokeWidth="3.5"
+        android:strokeColor="#6366F1" />
+    <!-- Antigravity stylized 'A' rocket chevron -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,30L72,72L63,72L58.5,61L49.5,61L45,72L36,72L54,30ZM54,43.5L51,53L57,53L54,43.5Z" />
+    <!-- Spark dot -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M54,20m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+</vector>
